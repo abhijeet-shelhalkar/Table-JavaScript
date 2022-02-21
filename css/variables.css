@@ -1,0 +1,10 @@
+:root {
+  --backgroundColor: #ffffff;
+  --buttonBgColor: #0069eb;
+  --buttonTextColor: #ffffff;
+  --fontFamily: monospace;
+  --headerBgColor: #90ee90;
+  --tableBorderColor: #d3d3d3;
+  --tableCaptionColor: #90ee90;
+  --tableHeaderBgColor: #d3d3d3;
+}
